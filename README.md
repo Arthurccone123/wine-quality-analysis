@@ -1,4 +1,4 @@
-# Wine Quality Analysis 🍷
+# Wine Quality Analysis 
 
 This project explores the chemical and physical factors that influence the quality of red and white wines. Using datasets from the [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Wine+Quality), this analysis aims to identify the key components that contribute to high wine quality and examine differences in rating standards between red and white wine types.
 
